@@ -2,7 +2,7 @@ IT-202 Project 1
 Tyler Lyczak
 tlyczak2
 
-**[View Live Preview](https://tylerlyczak.github.io/it202-Project1/)**
+**[View Live Preview](https://tylerlyczak.github.io/it202-project1/)**
 
 
 Modify the bootstrap Agency template
